@@ -1,2 +1,1 @@
-# TinDog
-Tinder for 🐶
+TinDog Starting Files
